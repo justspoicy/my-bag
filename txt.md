@@ -1,5 +1,3 @@
 https://eastlakeside.gitbook.io/interpy-zh/c_extensions
 
-
-
-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
+https://www.w3cschool.cn/python3/python3-enbl2pw9.html

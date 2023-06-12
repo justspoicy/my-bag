@@ -24,3 +24,9 @@ subprocess.run(['my_command'], env=env)
 
 
 注意一下adb shell后面命令中的引号问题，我觉得有这个可能是这个原因
+
+
+rbBh8Y3uWT@pddgo.online----x2jb9dXuhe----sk-nUPhsJ!!!!cyZF!!!!!FNjTMSwvuf!!!!!T3BlbkFJVkY7VRfYi!!!!!mSny0uI92IV
+
+微软账户:
+sk-yZ4GM!!!byvu9g4mTc!!!!Y6yztT3Bl!!!!bkFJ36piJ!!!!N05g5B!!!!66YsFVZL5

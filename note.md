@@ -35,3 +35,8 @@ nginx：待定
 ```
 
 ```
+
+html,css,js复习回顾一下；
+flask vue框架搭建前后端分离的网站；
+nginx tomcat apache 按照需要搞吧先
+python c++语言的持续学习
